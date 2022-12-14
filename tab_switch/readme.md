@@ -1,6 +1,6 @@
-# Switch Tab using Singly Linked List
+# Switch Tab made by using Singly Linked List
 
-![Tab switcher](./assets/tab_switch.png "tab modal");
+![Tab switcher](./assets/tab_switch.png "tab modal")
 
 ### Switch tab key
 
@@ -10,4 +10,4 @@ To avoid confliction with the os system I choose the following key to switch tab
 
 # Live demo
 
-[Tab Switcher](<(https://tabswitchdemo.netlify.app/)>)
+[Tab Switcher](https://tabswitchdemo.netlify.app/)
