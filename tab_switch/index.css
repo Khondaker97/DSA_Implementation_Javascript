@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+#box {
+  text-align: center;
+}
+
+.sel {
+  color: red !important;
+  background-color: rgb(202, 199, 199) !important;
+}
+
+#tabModal {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#tab-switcher {
+  margin-top: 40px;
+}
+
+li > img {
+  height: 3rem;
+  text-align: center;
+}
